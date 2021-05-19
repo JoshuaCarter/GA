@@ -1,0 +1,10 @@
+{
+    "expects": [
+        "Hello World",
+        "Greetings John Doe!",
+        "Greetings Jane Smith!",
+        "Loop iteration #0",
+        "Loop iteration #1",
+        "Loop iteration #2"
+    ]
+}
